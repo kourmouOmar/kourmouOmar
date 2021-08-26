@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## I'm KOURMOU Omar.
 
 ### 💻 &nbsp;About Me 
+My name ids KOURMOU Omar , a young full stack developer, 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering .
