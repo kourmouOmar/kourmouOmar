@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I'm KOURMOU Omar.
 
 ### 💻 &nbsp;About Me 
-![](https://komarev.com/ghpvc/?username=kourmouOmar)
+<--![](https://komarev.com/ghpvc/?username=kourmouOmar)-->
 
 My name is KOURMOU Omar , a young full stack developer, 
 
