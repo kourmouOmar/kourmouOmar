@@ -53,9 +53,9 @@ My name is KOURMOU Omar , a young full stack developer,
 
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-kourmou-8998b9156/"><img src="https://img.shields.io/badge/-kourmou%20Omar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kourmou.omar@gmail.com"><img src="https://img.shields.io/badge/-kourmou.omar@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--<a href="mailto:kourmou.omar@gmail.com"><img src="https://img.shields.io/badge/-kourmou.omar@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<!--
+
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
