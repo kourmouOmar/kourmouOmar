@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+## 👋 Welcome!
+I'm Omar KOURMOU — Technical Lead & Software Engineer
 
-## I'm KOURMOU Omar.
-
-### 💻 &nbsp;About Me 
 <!-- ![https://komarev.com/ghpvc/?username=kourmouOmar](https://komarev.com/ghpvc/?username=kourmouOmar)-->
 👋 Hi there
 I'm KOURMOU Omar — Senior Full-Stack Developer | Technical Lead
