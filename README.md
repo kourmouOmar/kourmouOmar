@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;About Me 
 <!-- ![https://komarev.com/ghpvc/?username=kourmouOmar](https://komarev.com/ghpvc/?username=kourmouOmar)-->
+👋 Hi there
+I'm KOURMOU Omar — Senior Full-Stack Developer | Technical Lead
 
-My name is KOURMOU Omar , a young full stack developer, 
+I’m a passionate Senior Full-Stack Developer (Java & Angular) with over 6 years of experience building robust, scalable, and user‑centric applications. I focus on delivering clean architecture, efficient code, and meaningful user experiences.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our world tech problems.
-- 🎓 &nbsp; Studying Software Engineering .
+💡   Leading technical design, mentoring developers, and driving best practices across teams.
+🧠   Passionate about system architecture, SaaS products, and cloud-native solutions.
+🚀   Currently exploring AI‑powered apps, MCP agents, and serverless SaaS platforms.
+🧩   Believer in pragmatic engineering — balancing code quality with business impact.
 
 
 ### 🛠 &nbsp;Tech Stack
