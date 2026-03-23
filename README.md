@@ -57,7 +57,6 @@ I’m a passionate Senior Full-Stack Developer (Java & Angular) with over 6 year
 <a href="https://www.linkedin.com/in/omar-kourmou-8998b9156/"><img src="https://img.shields.io/badge/-kourmou%20Omar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kourmou.omar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<!--
+<!---->
 ![omarKourmou's github stats](https://github-readme-stats.vercel.app/api?username=kourmouOmar&count_private=true&show_icons=true)
--->
 
