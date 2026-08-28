@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 Welcome!
-I'm Omar KOURMOU — Technical Lead & Software Engineer
+<!-- I'm Omar KOURMOU — Technical Lead & Software Engineer -->
 
 <!-- ![https://komarev.com/ghpvc/?username=kourmouOmar](https://komarev.com/ghpvc/?username=kourmouOmar)-->
 👋 Hi there
