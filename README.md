@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- ![https://komarev.com/ghpvc/?username=kourmouOmar](https://komarev.com/ghpvc/?username=kourmouOmar)-->
 👋 Hi there
 I'm KOURMOU Omar — Senior Full-Stack Developer | Technical Lead
-
+<!--
 I’m a passionate Senior Full-Stack Developer (Java & Angular) with over 6 years of experience building robust, scalable, and user‑centric applications. I focus on delivering clean architecture, efficient code, and meaningful user experiences.
 
 💡   Leading technical design, mentoring developers, and driving best practices across teams.
@@ -28,7 +28,8 @@ I’m a passionate Senior Full-Stack Developer (Java & Angular) with over 6 year
 🚀   Currently exploring AI‑powered apps, MCP agents, and serverless SaaS platforms.
 🧩   Believer in pragmatic engineering — balancing code quality with business impact.
 
-
+-->
+<!--
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
@@ -40,7 +41,7 @@ I’m a passionate Senior Full-Stack Developer (Java & Angular) with over 6 year
   ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-sql-333333?style=flat&logo=sql)
-- ⚙️ &nbsp;
+- ⚙️ &nbsp;-->
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
