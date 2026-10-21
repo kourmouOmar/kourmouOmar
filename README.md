@@ -1,17 +1,13 @@
 👋 Hi there
 I'm KOURMOU Omar — Senior Full-Stack Developer | Technical Lead
 ###  🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-kourmou-8998b9156/"><img src="https://img.shields.io/badge/-kourmou%20Omar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kourmou.omar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
 <!--
 **kourmouOmar/kourmouOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,25 +17,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!--
 ## 👋 Welcome!
 <!-- I'm Omar KOURMOU — Technical Lead & Software Engineer -->
-
 <!-- ![https://komarev.com/ghpvc/?username=kourmouOmar](https://komarev.com/ghpvc/?username=kourmouOmar)-->
-
 <!--
 I’m a passionate Senior Full-Stack Developer (Java & Angular) with over 6 years of experience building robust, scalable, and user‑centric applications. I focus on delivering clean architecture, efficient code, and meaningful user experiences.
-
 💡   Leading technical design, mentoring developers, and driving best practices across teams.
 🧠   Passionate about system architecture, SaaS products, and cloud-native solutions.
 🚀   Currently exploring AI‑powered apps, MCP agents, and serverless SaaS platforms.
 🧩   Believer in pragmatic engineering — balancing code quality with business impact.
-
 -->
 <!--
 ### 🛠 &nbsp;Tech Stack
-
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
